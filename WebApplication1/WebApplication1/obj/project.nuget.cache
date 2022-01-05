@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vyt813AFnMNjxHOvOSKwHym4ggRFX6CWzdw7xOMOv4RFOa/cOZ9vWJYGlK/9yOWjU0aXAxUlv+SCyqTfdVf1aQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\nivetha\\source\\repos\\nivetha-cg\\cfazure\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
